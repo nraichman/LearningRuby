@@ -1,0 +1,66 @@
+Welcome to the movie data base app!
+What would you like find out?
+
+1. Find out the popularity of a movie by its ID
+2. List movies by popularity
+3. Find out the similarity between two users
+4. Find out the most similar users to given user
+5. Quit
+2
+Here are the movies sorted by their popularity:
+1. 242
+2. 302
+3. 377
+4. 51
+5. 346
+6. 474
+7. 265
+8. 465
+9. 451
+10. 86
+
+.
+.
+.
+
+1672. 1460
+1673. 1594
+1674. 1626
+1675. 1645
+1676. 1659
+1677. 1682
+1678. 1674
+1679. 1640
+1680. 1637
+1681. 1630
+1682. 1641
+What would you like find out?
+
+1. Find out the popularity of a movie by its ID
+2. List movies by popularity
+3. Find out the similarity between two users
+4. Find out the most similar users to given user
+5. Quit
+4
+Please enter a user's ID
+1
+The list of most similar users:
+1. ID: 276  Similarity Score: 0.5413602941176471
+2. ID: 303  Similarity Score: 0.5009191176470589
+3. ID: 92  Similarity Score: 0.4834558823529411
+4. ID: 429  Similarity Score: 0.47977941176470584
+5. ID: 13  Similarity Score: 0.47610294117647056
+6. ID: 450  Similarity Score: 0.4724264705882353
+7. ID: 435  Similarity Score: 0.46875
+8. ID: 682  Similarity Score: 0.4623161764705882
+9. ID: 916  Similarity Score: 0.45772058823529416
+10. ID: 416  Similarity Score: 0.45496323529411764
+What would you like find out?
+
+1. Find out the popularity of a movie by its ID
+2. List movies by popularity
+3. Find out the similarity between two users
+4. Find out the most similar users to given user
+5. Quit
+5
+Thank you for using our database! See you next time!
